@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint", 
+        "msjsdiag.debugger-for-chrome",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vsliveshare.vsliveshare",
+        "esbenp.prettier-vscode",
+        "visualstudioexptteam.vscodeintellicode",
+        "redhat.vscode-yaml"
+    ]
+  }
